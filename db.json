@@ -1,0 +1,348 @@
+{
+    "match":[{
+        "id":1,
+        "name":"Cristiano Ronaldo",
+        "img":"assets/player-images/1.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":2,
+        "name":"David Silva",
+        "img":"assets/player-images/2.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":3,
+        "name":"Edin Džeko",
+        "img":"assets/player-images/3.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":4,
+        "name":"Marek Hamsik",
+        "img":"assets/player-images/4.jpg",
+        "value":"$60 Million",
+        "skill":"Footballer Player"
+    },
+    {
+        "id":5,
+        "name":"Karim Benzema",
+        "img":"assets/player-images/5.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":6,
+        "name":"Lionel Messi",
+        "img":"assets/player-images/6.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":7,
+        "name":"Aleksandar Kovacevic",
+        "img":"assets/player-images/7.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    }
+    ,
+    {
+        "id":8,
+        "name":"Gareth Bale",
+        "img":"assets/player-images/8.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":9,
+        "name":"Ivan Perisic",
+        "img":"assets/player-images/9.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":10,
+        "name":"Luis Suárez",
+        "img":"assets/player-images/10.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":11,
+        "name":"Diego Costa",
+        "img":"assets/player-images/11.jpg",
+        "value":"$60 Million",
+        "skill":"Footballer Player"
+    },
+    {
+        "id":12,
+        "name":"Sergio Agüero",
+        "img":"assets/player-images/12.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":13,
+        "name":"Ángel Di María",
+        "img":"assets/player-images/13.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":14,
+        "name":"Sandro Wagner",
+        "img":"assets/player-images/14.jpg",
+        "value":"$60 Million",
+        "skill":"Footballer Player"
+    },
+    {
+        "id":15,
+        "name":"Edinson Cavani",
+        "img":"assets/player-images/15.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":16,
+        "name":"Ivan Ordets",
+        "img":"assets/player-images/16.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":17,
+        "name":"Stevan Jovetić",
+        "img":"assets/player-images/17.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":18,
+        "name":"Felix Seiwald",
+        "img":"assets/player-images/18.jpg",
+        "value":"$29.6 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":19,
+        "name":"Thomas Müller",
+        "img":"assets/player-images/19.jpg",
+        "value":"$60 Million",
+        "skill":"Footballer Team"
+    },
+    {
+        "id":20,
+        "name":"Alexis Sánchez",
+        "img":"assets/player-images/20.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":21,
+        "name":"Kevin De Bruyne",
+        "img":"assets/player-images/21.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":22,
+        "name":"Romelu Lukaku",
+        "img":"assets/player-images/22.jpg",
+        "value":"$60 Million",
+        "skill":"Professional Footballer"
+    },
+    {
+        "id":23,
+        "name":"Marco Reus",
+        "img":"assets/player-images/23.jpg",
+        "value":"$1.8 Billion",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":24,
+        "name":"Radamel Falcao García Zarate",
+        "img":"assets/player-images/24.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":25,
+        "name":"Diego Perotti",
+        "img":"assets/player-images/25.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":26,
+        "name":"David De Gea's",
+        "img":"assets/player-images/22.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":27,
+        "name":"Douglas Costa Juventus",
+        "img":"assets/player-images/27.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":28,
+        "name":"Harry Kane",
+        "img":"assets/player-images/28.jpg",
+        "value":"$60 Million",
+        "skill":"footballer Player"
+    },
+    {
+        "id":29,
+        "name":"Antoine Griezmann",
+        "img":"assets/player-images/29.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":30,
+        "name":"Dries Mertens",
+        "img":"assets/player-images/30.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":31,
+        "name":"Barcelona Lyon",
+        "img":"assets/player-images/31.jpg",
+        "value":"$60 Million",
+        "skill":"UEFA Champions"
+    },
+    {
+        "id":32,
+        "name":"Bayern Munich",
+        "img":"assets/player-images/32.jpg",
+        "value":"$60 Million",
+        "skill":"UEFA Champions League"
+    },
+    {
+        "id":33,
+        "name":"UnKnown",
+        "img":"assets/player-images/33.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":34,
+        "name":"Figurina Lorenzo Insigne",
+        "img":"assets/player-images/34.jpg",
+        "value":"$60 Million",
+        "skill":"UEFA EURO"
+    },
+    {
+        "id":35,
+        "name":"Santiago Arias",
+        "img":"assets/player-images/35.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":36,
+        "name":"Michy Batshuayi",
+        "img":"assets/player-images/36.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":37,
+        "name":"Răzvan Marin",
+        "img":"assets/player-images/37.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":38,
+        "name":"Ricardo Kishna",
+        "img":"assets/player-images/38.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":39,
+        "name":"Mohamed Salah",
+        "img":"assets/player-images/39.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":40,
+        "name":"Jessica Reis da Silva",
+        "img":"assets/player-images/40.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":41,
+        "name":"Sadio Mane",
+        "img":"assets/player-images/41.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":42,
+        "name":"Federico Bernardeschi",
+        "img":"assets/player-images/42.jpg",
+        "value":"$60 Million",
+        "skill":"UEFA Champions"
+    },
+    {
+        "id":43,
+        "name":"Nabil Fekir",
+        "img":"assets/player-images/43.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":44,
+        "name":"Leroy Sané",
+        "img":"assets/player-images/44.jpg",
+        "value":"$60 Million",
+        "skill":"Football Club"
+    },
+    {
+        "id":45,
+        "name":"Mauro Icardi",
+        "img":"assets/player-images/45.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":46,
+        "name":"Kylian Mbappé",
+        "img":"assets/player-images/46.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":47,
+        "name":"Rumours",
+        "img":"assets/player-images/47.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":48,
+        "name":"Paulo Dybala",
+        "img":"assets/player-images/48.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    },
+    {
+        "id":49,
+        "name":"Gabriel Jesus",
+        "img":"assets/player-images/49.jpg",
+        "value":"$60 Million",
+        "skill":"FIFA Player"
+    }
+    
+]
+}
